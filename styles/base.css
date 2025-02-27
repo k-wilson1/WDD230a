@@ -90,7 +90,7 @@ nav {
 
 main h2{
     background-color:lightseagreen;
-    border: 5px rgb(252, 206, 213) solid;
+    border: solid 5px rgb(252, 206, 213);
     border-radius: 10px;
     grid-row: 1/2;
     justify-self: center;
